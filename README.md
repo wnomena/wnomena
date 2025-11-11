@@ -22,7 +22,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-	<img src="https://github-stats.omsimos.com/user/wnomena?theme=default&hide_border=true&count_private=true" alt="Nomena's GitHub stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=wnomena&show_icons=true&theme=radical" alt="Nomena's GitHub stats"/>
 </p>
 
 ## 📫 Pour me joindre
